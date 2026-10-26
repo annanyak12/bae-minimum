@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /login.html
+Disallow: /signup.html
+Disallow: /wishlist.html
+Sitemap: https://bae-minimum.netlify.app/sitemap.xml
